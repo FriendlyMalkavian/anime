@@ -1,0 +1,52 @@
+Button {
+    margin: auto;
+    width: auto;
+    height: auto;
+    padding-top: 12px;
+
+    border-bottom: solid 1px #3d3d3d;
+    background: linear-gradient(180deg, rgba(215, 228, 252, 0.37) 0%, rgba(137, 171, 211, 0.178) 100%);
+
+    color: #5178f0;
+    user-select: none;
+}
+
+Button:hover {
+    border-color: #bce7ff;
+    color: #67dcff;
+    transition: 0.3s;
+}
+
+.active {
+    background: linear-gradient(180deg, rgba(21, 201, 233, 0) 0%, rgba(0, 225, 255, 0.226) 100%);
+    border-color: #00eeffa8;
+    color: #2297ac;
+}
+
+.input{
+    width: 300px;
+    height: 36px;
+    margin: auto;
+    padding-top: 12px;
+    border-bottom: solid 1px #3d3d3d;
+    background: linear-gradient(180deg, rgba(21, 201, 233, 0) 0%, rgba(0, 225, 255, 0.226) 100%);
+    border-color: #bce7ff;
+    color:#bce7ff;
+    font-family: inherit; 
+    font-size: inherit; 
+    line-height: inherit; 
+}
+
+.graphInput{
+    width: 100px;
+    height: 36px;
+    margin: auto;
+    padding-top: 12px;
+    border-bottom: solid 1px #3d3d3d;
+    background: linear-gradient(180deg, rgba(21, 201, 233, 0) 0%, rgba(0, 225, 255, 0.226) 100%);
+    border-color: #bce7ff;
+    color:#bce7ff;
+    font-family: inherit; 
+    font-size: inherit; 
+    line-height: inherit; 
+}

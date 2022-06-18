@@ -1,0 +1,64 @@
+operands btn operation {
+    width: 100px;
+    height: 36px;
+    margin-top: auto;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-top: 12px;
+    border-bottom: solid 1px #3d3d3d;
+    background: linear-gradient(180deg, rgba(21, 201, 233, 0) 0%, rgba(0, 225, 255, 0.226) 100%);
+    border-color: #bce7ff;
+    color:#bce7ff;
+    font-family: inherit; 
+    font-size: inherit; 
+    line-height: inherit; 
+
+}
+
+operands btn operation:hover {
+    border-color: #bce7ff;
+    color: #1e2528;
+    background-color: #67dcff;
+    transition: 0.3s;
+}
+
+.numbers {
+    margin-top: 75px;
+    width: 240px;
+    height: 36px;
+    margin-left: 10px;
+    margin-right: 0px;
+    padding-top: 12px;
+    border-bottom: solid 1px #3d3d3d;
+    background: linear-gradient(180deg, rgba(21, 201, 233, 0) 0%, rgba(0, 225, 255, 0.226) 100%);
+    border-color: #bce7ff;
+    color:#bce7ff;
+    font-family: inherit; 
+    font-size: inherit; 
+    line-height: inherit; 
+}
+
+.numbers:hover {
+    background: #67dcff;
+}
+
+.result {
+    width: 500px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    outline: 0;
+    border: 0px;
+}
+
+.result:hover {
+    background: #67dcff;
+}
+
+.rules {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16pt;
+    color:#67dcff;
+}
+

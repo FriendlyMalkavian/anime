@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    justify-content: space-between;
+}
+
+.button {
+    margin: auto;
+    width: 700px;
+    height: 36px;
+    padding-top: 12px;
+
+    border-bottom: solid 1px #3d3d3d;
+    background: linear-gradient(180deg, rgba(215, 228, 252, 0.37) 0%, rgba(137, 171, 211, 0.178) 100%);
+
+    color: #5178f0;
+    user-select: none;
+}

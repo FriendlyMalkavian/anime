@@ -1,0 +1,25 @@
+.NotFoundPage {
+    height: 1000px;
+
+    z-index: 4;
+}
+.h2{
+    position:absolute;
+    width:100%;
+    top:40%;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16pt;
+    color:#67dcff;
+
+}
+.h1{
+    position:absolute;
+    width:100%;
+    top:44%;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16pt;
+    color:#67dcff;
+
+}
